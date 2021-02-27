@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Amazon Clone (Plants)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend project based on the real Amazon website.
 
 ## Available Scripts
 
